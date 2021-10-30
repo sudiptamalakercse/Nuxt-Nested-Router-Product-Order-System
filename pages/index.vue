@@ -1,5 +1,5 @@
 <template>
-  <div class="container mt-5 parent">
+  <div class="parent">
     <h5>top parent</h5>
     <h5>please place an order</h5>
     <span>|</span>
